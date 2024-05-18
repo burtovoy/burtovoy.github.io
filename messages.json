@@ -1,10 +1,5 @@
 {
-  "static": { 
-    "usersRegistr": "20",
-    "writMessages": "556",
-    "writToday": "58"
-  }, 
-  "lastMessages": [
+  "messages": [
     {
       "id": "1",
       "user_id": "1",
@@ -50,48 +45,6 @@
       "quantityReposts": "21",
       "quantityLike": "23",
       "quantityShare": "9"
-    }
-  ],
-  "topics": [
-    {
-      "hashName": "#javascript",
-      "numOfMessage": "2 941 сообщение"
-    },
-    {
-      "hashName": "#python3",
-      "numOfMessage": "29 718 сообщений"
-    },
-    {
-      "hashName": "#ruby",
-      "numOfMessage": "958 186 сообщений"
-    },
-    {
-      "hashName": "#как_научиться_коду?",
-      "numOfMessage": "4 185 сообщений"
-    },
-    {
-      "hashName": "#помогите_с_кодом",
-      "numOfMessage": "482 сообщения"
-    }
-  ],
-  "blogs": [
-    {
-      "id": "5",
-      "user_id": "5",
-      "name": "Хабр Научпоп",
-      "mail": "@habr_popsci"
-    },
-    {
-      "id": "6",
-      "user_id": "6",
-      "name": "Матч ТВ",
-      "mail": "@MatchTV"
-    },
-    {
-      "id": "7",
-      "user_id": "7",
-      "name": "Популярная механика",
-      "mail": "@PopMechanica"
     }
   ]
 }
