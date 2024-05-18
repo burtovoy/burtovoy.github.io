@@ -2,31 +2,31 @@
     "users": [
         {
             "id": "1",
-            "url": "img/vins-avatar.png"
+            "url": "https://burtovoy.github.io/img/vins-avatar.png"
         },
         {
             "id": "2",
-            "url": "img/elon-avatar.png"
+            "url": "https://burtovoy.github.io/img/elon-avatar.png"
         },
         {
             "id": "3",
-            "url": "img/alexsandr-avatar.png"
+            "url": "https://burtovoy.github.io/img/alexsandr-avatar.png"
         },
         {
             "id": "4",
-            "url": "img/mia-avatar.png"
+            "url": "https://burtovoy.github.io/img/mia-avatar.png"
         },
         {
             "id": "5",
-            "url": "img/habr-icon.png"
+            "url": "https://burtovoy.github.io/img/habr-icon.png"
         },
         {
             "id": "6",
-            "url": "img/match-icon.png"
+            "url": "https://burtovoy.github.io/img/match-icon.png"
         },
         {
             "id": "7",
-            "url": "img/popmeh-icon.png"
+            "url": "https://burtovoy.github.io/img/popmeh-icon.png"
         }
     ]
 }
